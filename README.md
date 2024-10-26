@@ -1,9 +1,10 @@
 # Devops-Abhishek-
 
 ### 1. What is Devops? 
-
+```
 All this process should to take within like you know if it happens with in hours then it is best,and if it happens with in one and two days then it also good one , right and **if you can have the ability to deliver your new version in one or two days or couple of hours or in minutes of time that it's called devops.
 **
+```
 - So devops is procees of inceasing the ability to deliver you application but is it only about delivery ? no Okay,
 - devops is also about monitoring okay
 
